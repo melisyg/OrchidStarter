@@ -40,6 +40,7 @@ The biggest challenge for me was GitHub; I have not used GitHub before. The take
 
 
 5) Provide a link to documentation for a technical/developer-focused product, which you think are well done, and briefly explain why you think they are well done.
+https://www.ruby-lang.org/en/documentation/
 Ruby, has endless documentation on their site from pointers to manuals, downloads, security, tutorials, libraries, references and more. It’s nicely laid out and easy to understand. 
 
 6) Why do you think SSL/HTTPS is important? 
